@@ -1,0 +1,11 @@
+    <config>
+        <modules>
+            <PPS_Paymentmodule>
+                <active>true</active>
+                <codePool>local</codePool>
+                <depends>
+                    <Mage_Payment />
+                </depends>
+            </PPS_Paymentmodule>
+        </modules>
+    </config>
